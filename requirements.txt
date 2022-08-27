@@ -1,4 +1,10 @@
 aiohttp
 asyncio
 discord.py
-SQLite3
+platform
+json
+os
+random
+sqlite3
+sys
+exceptions
