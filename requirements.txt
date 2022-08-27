@@ -5,6 +5,5 @@ platform
 json
 os
 random
-git+https://github.com/sqlite/sqlite.git
 sys
 exceptions
