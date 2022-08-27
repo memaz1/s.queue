@@ -1,10 +1,10 @@
 aiohttp
 asyncio
-discord.py
+git+https://github.com/Rapptz/discord.py.git
 platform
 json
 os
 random
-sqlite3
+git+https://github.com/sqlite/sqlite.git
 sys
 exceptions
