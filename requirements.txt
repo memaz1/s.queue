@@ -1,4 +1,4 @@
 aiohttp
 asyncio
 discord.py
-SQLite3==3.39.2
+SQLite3
