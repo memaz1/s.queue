@@ -1,8 +1,2 @@
 aiohttp
 git+https://github.com/Rapptz/discord.py.git
-platform
-json
-os
-random
-sys
-exceptions
