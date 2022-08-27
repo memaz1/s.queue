@@ -1,5 +1,4 @@
 aiohttp
-asyncio
 git+https://github.com/Rapptz/discord.py.git
 platform
 json
